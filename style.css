@@ -13,7 +13,7 @@ body {
 }
 
 .navbar img {
-    margin-left: 375px;
+    margin-left: 180px;
     height: 24px;
     align-items: center;
     padding-top: 8px;
@@ -36,7 +36,7 @@ body {
     font-size: 13px;
     font-weight: 800;
     padding-top: 8px;
-    margin-left: -180px;
+    margin-left: -100px;
 }
 
 .navbar a {
